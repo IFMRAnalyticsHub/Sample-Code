@@ -1,0 +1,67 @@
+a=3
+b=4
+a+b
+a-b
+a*b
+a/b
+a^b
+a**b
+a%%b
+a%/%b
+abs(a)
+c = a/b
+c
+abs(c)
+c=a-b
+c
+abs(c)
+sqrt(b)
+ceiling(c)
+c
+c = a/b
+c
+ceiling(c)
+floor(c)
+trunc(5.9)
+round(5.878765, digits = 2)
+signif(5.797638, digits = 2)
+cos(90)
+sin(90)
+tan(90)
+log(10)
+log10(10)
+log2(1024)
+exp(10)
+exp(1)
+max(1:81)
+mean(1:10)
+median(1:7)
+range(1:78,8:87)
+prod(1,2,3,4,5)
+factorial(5)
+sign(-1782)
+sign(12)
+typeof(2.23)
+typeof(2)
+class(2)
+class(2/33)
+class("madhu")
+pi
+month.name
+days.name
+month.abb
+time
+LETTERS
+letters
+pi
+pi=34
+pi = 32
+pi
+pi
+LETTERS[2]
+letters[3]
+1&2
+1|2
+1|1
+1&0
+1&1
